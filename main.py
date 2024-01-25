@@ -1,3 +1,2 @@
 def do_function():
-    pass
-
+    return True
